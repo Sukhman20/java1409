@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=customer\ purchaseDate\ vehiclePurchased\ servicePackage
+comment0.target=VehiclePurchase(Customer,\ PurchaseDate,\ Vehicle,\ boolean)
+comment0.text=\r\n\ @param\ customer\r\n\ @param\ purchaseDate\r\n\ @param\ vehiclePurchased\r\n
+comment1.params=
+comment1.target=Customer\ getCustomer()
+comment1.text=\r\n\ @return\ the\ customer\r\n
+comment2.params=
+comment2.target=PurchaseDate\ getPurchaseDate()
+comment2.text=\r\n\ @return\ the\ purchaseDate\r\n
+comment3.params=
+comment3.target=Vehicle\ getVehiclePurchased()
+comment3.text=\r\n\ @return\ the\ vehiclePurchased\r\n
+comment4.params=
+comment4.target=boolean\ isServicePackage()
+comment4.text=\r\n\ @return\ the\ servicePackage\r\n
+comment5.params=servicePackage
+comment5.target=void\ setServicePackage(boolean)
+comment5.text=\r\n\ @param\ servicePackage\ the\ servicePackage\ to\ set\r\n
+comment6.params=purchasePrice
+comment6.target=void\ calculatePurchasePrice(double)
+comment6.text=\r\n\ @param\ purchasePrice\ the\ purchasePrice\ to\ set\r\n\ @return\ the\ total\ price\ of\ the\ purchased\ vehicle\ as\ a\ double\r\n
+comment7.params=
+comment7.target=void\ displayPurchaseInformation()
+comment7.text=\r\n\ Display\ the\ rental\ agreement\ information\r\n
+numComments=8
